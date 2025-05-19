@@ -1,0 +1,6 @@
+# input("digte quatro números e faça a soma deles")
+num1 = int(input("digite um número"))
+num2 = int(input("digite outro número"))
+num3 = int(input("digite outro número"))
+num4 = int(input("digite outro número"))
+print ("os seu números foram", num1+num2+num3+num4)
